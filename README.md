@@ -1,4 +1,4 @@
-## Welcome to JavaScript Master Course for Beginners
+## Welcome to JavaScript Wizard Course for Beginners
 
 From CodeMal JavaScript Master.
 ဒီထဲမှာတော့ Javascript (js) သင်ခန်းစာထဲ code တွေကိုစုဆည်းပေးမှဖြစ်ပါတယ်
@@ -70,3 +70,5 @@ From CodeMal JavaScript Master.
 1.  Recommended books, websites, and forums
 2.  Online coding challenges and projects
 3.  Joining the JavaScript community
+
+***သဘောကျရင် stars လေးတွေပေးလို့ရပါတယ်  😛😛😛***
