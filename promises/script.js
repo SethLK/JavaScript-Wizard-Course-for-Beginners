@@ -14,6 +14,10 @@ const demo = document.querySelector(".demo")
 //     demo.textContent = error
 // })
 
-fetch('https://jsonplaceholder.typicode.com/todos/1')
-      .then(response => response.json())
-      .then(json => console.log(json))
+// fetch('https://jsonplaceholder.typicode.com/todos/1')
+//       .then(response => response.json())
+//       .then(json => console.log(json))
+
+fetch('https://jsonplaceholder.typicode.com/todos/2').then(response => response.json()).then(json => {
+      document.querySelector(".demo").innerHTML = `<h1>${json.title}</h1> <br> <h3>${json.userId}</h3>`
+})
